@@ -1,0 +1,54 @@
+
+
+.p1 {
+  width: 60%;
+}
+
+.topimage {
+  float: left;
+}
+
+.texttop {
+  text-align: center;
+}
+
+ul {
+  font-family: "Bubblegum Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+ul li a {
+  font-size: xx-large;
+  text-decoration: none;
+  display: block;
+  color: #1e1e1e;
+}
+ul :hover {
+  color: red;
+}
+
+body {
+  background-color: bisque;
+}
+
+.ok {
+  border-top: dotted;
+}
+.ok2 {
+ border-top: dotted;
+}
+.ok4 {
+  border-bottom: dotted;
+}
+
+.ok5 {
+  border-top: dotted;
+}
+
+.footer {
+  text-align: center;
+}
